@@ -25,7 +25,6 @@ ayats = re.findall(r'la-text\">(.*?)</', parsedData)
 
 count = 0
 for ayat in ayats:
-    print(count + 1)
     print(ayat)
     count += 1
 
