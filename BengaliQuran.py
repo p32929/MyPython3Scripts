@@ -28,4 +28,4 @@ for ayat in ayats:
     print(ayat)
     count += 1
 
-print("\n\nTotal ayats = " + str(count))
+print("\n\n//Total ayats = " + str(count))
